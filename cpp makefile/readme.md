@@ -11,3 +11,8 @@ The makefile script compiles and runs the program, and even deletes the produced
 ![](demo.gif)
 
 ![](screenshot.png)
+
+## Download
+To download the source code, simply [Click Here](download.zip)
+
+Or download the zipped folder named ```download.zip```
