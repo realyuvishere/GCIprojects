@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /lib/
+Disallow: /lib/dummy.html
 Allow: /
