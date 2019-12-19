@@ -22,7 +22,7 @@ This repo is dedicated to the aforementioned task in GCI. The project is a simpl
 ![Mobile view](mobile.jpeg)
 
 ## Live Demo
-To experience the live demo of the project, you can [click here](http://yuvrajsharma07.github.io/gciprojects/htmlcss/)
+To experience the live demo of the project, you can [click here](http://yuvrajsharma07.github.io/GCIprojects/htmlcss/)
 
 ## Download
 To download the source code, simply [click here](download.zip)
