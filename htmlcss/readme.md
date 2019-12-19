@@ -15,11 +15,9 @@ This repo is dedicated to the aforementioned task in GCI. The project is a simpl
 - Is accompanied by a minimal robots.txt that blocks access to a dummy page.
 
 ## Demonstration
-![GIF animation](demo.gif)
+![Desktop view](demo.gif)
 
-![Desktop view](screenshot.png)
-
-![Mobile view](mobile.jpeg)
+![Mobile view](mobile.gif)
 
 ## Live Demo
 To experience the live demo of the project, you can [click here](http://yuvrajsharma07.github.io/GCIprojects/htmlcss/)
